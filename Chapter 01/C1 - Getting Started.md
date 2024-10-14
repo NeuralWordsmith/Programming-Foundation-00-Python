@@ -35,8 +35,3 @@ Hello Python Crash Course world!
 ```
 
 ---
-
-## **Links**/**Tags**
-
-[[Python Crash Course]]
-#python 

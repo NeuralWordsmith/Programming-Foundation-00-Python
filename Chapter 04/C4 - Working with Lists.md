@@ -1,13 +1,10 @@
-## **Date**
-- Date of Note Creation: 2024-09-27
-- Last Updated: {{last-modified}}
-
----
-
 ## **Key Takeaways**
 - **Looping through an Entire list**: we can loop through entire list using `for in` loop.
 - **Avoiding Indentation Errors**: {{Brief description of the second key takeaway or concept.}}
 - **Numerical Lists**: {{Brief description of the third key takeaway or concept.}}
+- **Efficiency**: Focus first on writing code that you understand clearly, and does what you want it to do. Then look for efficient approaches as you review your code.
+- **List Comprehensions**: This allows you to generate the same output but in one line of code.
+- **Working with a Part of a list**: This consists of Slicing a list using [:] 
 
 <!-- Use bullet points to summarize important points and concepts from the chapter. -->
 
@@ -29,7 +26,7 @@
 ## **Code Snippets**
 ### **for loop:**
 ```python
-# Description: {{Brief description of what this code does.}}
+# Description: Using for Loop
 magicians = ['alice', 'david', 'carolina']
 for magician in magicians:
 print(magician)
@@ -43,14 +40,20 @@ carolina
 
 ### **Snippet 2:**
 ```Python
-#
+# Description: Using rang() to Make a List of Numbers
+
+square = []
+for value in range(1,11):
+    square.append(value**2)
+
+print(squares)
+
+----------------------------------------------------------------------
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+----------------------------------------------------------------------
+
 
 ```
 
 
 ---
-
-## **Links**/**Tags**
-
--[[Python Crash Course]]
-#python
