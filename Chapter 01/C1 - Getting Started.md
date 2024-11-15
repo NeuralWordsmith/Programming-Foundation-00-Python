@@ -1,6 +1,6 @@
 ## **Date**
 - Date of Note Creation: 2024-09-26
-- 
+  
 ---
 
 ## **Key Takeaways**
