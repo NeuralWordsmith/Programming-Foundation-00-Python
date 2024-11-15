@@ -6,7 +6,7 @@
 
 ## **Key Takeaways**
 
-- **Variables**: Variables are **labels** that you can assign to values.
+- **Variables**: Variables are **labels** that you can assign to values. It can only contain letters, numbers, underscores. Spaces are not allowed.
 - **Data Types**: There are multiple data types:
 	- **Sequence Type**:
 		- **Strings**: A *string* is a series of characters. Anything inside quotes is     considered a string in Python. It can be single/double quotes. methods can be applied to strings.
@@ -71,13 +71,13 @@
 	`If the implementation is hard to explain, it's a bad idea.`  
 	`If the implementation is easy to explain, it may be a good idea.`  
 	`Namespaces are one honking great idea -- let's do more of those!`
-  This philosophy is for simplicity and clarity in mind.
+  This philosophy is for simplicity and clarity in mind. To write code as simple as possible, whenever possible.
 ---
 
 ## **Important Concepts**
 ### **Print Calls**
-- **Description**: Print() has some defaults. 
-- **Example**: while using print, double quotation is used to write anything that is not a command. 
+- **Description**: Print() has some default keywords and functions.
+- **Example**: while using print, double quotation is used to write anything that is not a Keywords, though keywords can be contained in quotations too.
 
 ---
 
